@@ -1,1 +1,3 @@
 # pandas-challenge
+
+This notebook uses Python and the Pandas library to analyze student and school data from a fictional district. It starts by loading and combining data from two CSV files—one with school info and one with student scores. After cleaning and organizing the data, the code calculates key metrics like average math and reading scores, budget per student, and passing rates. The analysis breaks things down by school type, size, and grade level to help identify patterns and performance trends. Everything is done in steps using grouped data, summary tables, and simple logic to get clear results from the raw data.
